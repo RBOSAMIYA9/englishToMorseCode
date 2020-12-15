@@ -4,9 +4,9 @@ var outputDiv = document.querySelector("#output");
 var copyBtn = document.querySelector("#copy-btn");
 var audioBtn = document.getElementById("play-audio");
 
-var apiUrl = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
+// var apiUrl = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
 
-// var apiUrl = "https://api.funtranslations.com/translate/minion.json"
+var apiUrl = "https://api.funtranslations.com/translate/morse.json"
 
 var audioUrl = "http://api.funtranslations.com/translate/morse/audio.json"
 
